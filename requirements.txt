@@ -1,3 +1,10 @@
 streamlit
 pandas
 openpyxl
+pandas
+python-dotenv
+requests
+mcp
+azure-data-tables
+azure-storage-blob
+msal
